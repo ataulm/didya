@@ -3,6 +3,8 @@ package com.ataulm.didya;
 import android.app.Activity;
 import android.os.Bundle;
 
+import com.ataulm.basic.R;
+
 public class MyActivity extends Activity {
 
     @Override
